@@ -5,7 +5,7 @@ Quizzler is a trivia quiz app.
 
 It is a good journey to learn how multiple choice question apps is built and how it works
 
-## What you will learn
+## What i learn
 
 * How to programmatically change UI elements such as Labels and Buttons.
 * What is a design pattern and how is it used in programming.
